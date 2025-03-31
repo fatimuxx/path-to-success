@@ -32,6 +32,8 @@
         padding:1.5em;
         list-style: none;
         background-color:#E9BB57;
+        color:#ffffff;
+        
     }
     ul{
         list-style: none;
@@ -63,3 +65,11 @@
     section{
         background-color: #ffffff;
     }
+   #take{
+    background-color: #D9526F;
+
+   }
+   footer{
+    color: #ffffff;
+    
+   }
